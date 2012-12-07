@@ -1,0 +1,12 @@
+= Einführung =
+
+In diesem Projekt geht es um die Idee ein Nagios ähnliches Programm unter Windows zu implementieren.
+
+
+= geplante Features =
+
+* Eigener HTTP Listener (Kein IIS)
+* Plain HTML Ausgabe (keep it simple)
+* Einbinden von Powershell, CMD, AppCMD
+* Analyse von Windows Systemen (HDD, RAM, CPU) -> CSV, XML
+* Überwachung und Statusreports -> HTML, XML
