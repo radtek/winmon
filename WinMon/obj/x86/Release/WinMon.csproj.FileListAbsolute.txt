@@ -1,0 +1,5 @@
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Release\WinMon.exe
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Release\WinMon.pdb
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\obj\x86\Release\WinMon.exe
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\obj\x86\Release\WinMon.pdb
