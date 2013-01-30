@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPserver", "HTTPserver\HT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tools", "tools\tools.csproj", "{3248C849-8905-4002-9A39-8C073D025FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service", "service\service.csproj", "{531227EC-A7FA-41A0-B4B7-62C2A365A95C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,16 +47,6 @@ Global
 		{3248C849-8905-4002-9A39-8C073D025FBA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{3248C849-8905-4002-9A39-8C073D025FBA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{3248C849-8905-4002-9A39-8C073D025FBA}.Release|x86.ActiveCfg = Release|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{531227EC-A7FA-41A0-B4B7-62C2A365A95C}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
