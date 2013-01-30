@@ -8,7 +8,7 @@
     <ProjectGuid>{3248C849-8905-4002-9A39-8C073D025FBA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>tools</RootNamespace>
+    <RootNamespace>WinMon</RootNamespace>
     <AssemblyName>tools</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

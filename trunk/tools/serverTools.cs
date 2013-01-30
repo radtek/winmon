@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace tools
+namespace WinMon
 {
     public class serverTools
     {
+
     }
 }
