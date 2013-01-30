@@ -1,1 +1,9 @@
-C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\WinMon.exe.config
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\WinMon.exe
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\WinMon.pdb
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\obj\x86\Debug\WinMon.exe
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\obj\x86\Debug\WinMon.pdb
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\HTTPserver.dll
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\tools.dll
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\HTTPserver.pdb
+C:\Users\Mr.O\Documents\winmon\WinMon\WinMon\bin\Debug\tools.pdb

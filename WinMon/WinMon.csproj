@@ -48,13 +48,27 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="service.cs" />
-    <Compile Include="serviceinstaller.cs" />
+    <Compile Include="WinMonService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="serviceinstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="config.xml">
       <SubType>Designer</SubType>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HTTPserver\HTTPserver.csproj">
+      <Project>{C94A5780-BC89-43B7-85E9-9AA7D281F653}</Project>
+      <Name>HTTPserver</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\tools\tools.csproj">
+      <Project>{3248C849-8905-4002-9A39-8C073D025FBA}</Project>
+      <Name>tools</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
