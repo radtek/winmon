@@ -1,0 +1,5 @@
+C:\Users\Mr.O\Documents\winmon\WinMon\HTTPserver\bin\Release\HTTPserver.dll
+C:\Users\Mr.O\Documents\winmon\WinMon\HTTPserver\bin\Release\HTTPserver.pdb
+C:\Users\Mr.O\Documents\winmon\WinMon\HTTPserver\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mr.O\Documents\winmon\WinMon\HTTPserver\obj\Release\HTTPserver.dll
+C:\Users\Mr.O\Documents\winmon\WinMon\HTTPserver\obj\Release\HTTPserver.pdb
